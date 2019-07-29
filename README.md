@@ -3,3 +3,4 @@ My first React Native application comes to life! I created a to do list applicat
 
 ## Built With
 * [React Native](https://facebook.github.io/react-native/docs/getting-started)
+* [Javscript](https://www.javascript.com/)
