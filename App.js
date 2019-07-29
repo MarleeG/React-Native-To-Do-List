@@ -7,7 +7,7 @@ import Form from './components/form';
 
 export default class App extends Component {
   state = {
-    todos: ['Do laundry', 'wash dishes'],
+    todos: ['Program 😜', 'Make dinner 🥘'],
     todo: '',
     showEditButton: false,
     index: -1,

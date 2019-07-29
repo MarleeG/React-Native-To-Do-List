@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, TextInput, Button } from 'react-native';
 
-
 const styles = StyleSheet.create({
     containerText: {
         color: 'black',
